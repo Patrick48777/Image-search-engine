@@ -25,7 +25,7 @@ git clone https://github.com/shubhrat12/Image-search-engine.git
 cd image-search-engine
 2. Create a virtual environment and install dependencies:
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv/bin/activate 
 pip install -r requirements.txt
 3. Run the application:
 python app.py
